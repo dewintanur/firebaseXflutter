@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060241869601",
+    "project_id": "mycafe-dbd39",
+    "storage_bucket": "mycafe-dbd39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060241869601:android:eb03da689c83defdf00c60",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqaLktWUSe1M8rp5-EYajwfYyuhHvLM18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
